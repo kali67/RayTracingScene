@@ -1,4 +1,6 @@
 
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 # Procedural Texturing
 
   To implement this for the sphere i used the equation:
