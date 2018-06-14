@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/kali67/RayTracingScene/finalScene.png)
+![alt text](finalScene.png)
 
 # Procedural Texturing
 
